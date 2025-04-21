@@ -23,10 +23,10 @@ const HomePage = () => {
                   <span className="text-primary">Your Body</span>
                 </div>
                 <div className="pt-2">
-                  <span className="text-foreground">With Advanced</span>
+                  <span className="text-foreground">With Advanced:</span>
                 </div>
                 <div className="pt-2">
-                  <span className="text-foreground">AI</span>
+                  <span className="text-foreground">AI powered</span>
                   <span className="text-primary"> Technology</span>
                 </div>
               </h1>
