@@ -27,7 +27,7 @@ const HomePage = () => {
                 </div>
                 <div className="pt-2">
                   <span className="text-foreground">AI powered</span>
-                  <span className="text-primary"> Technology</span>
+                  <span className="text-primary"> Technology IS</span>
                 </div>
               </h1>
 
