@@ -36,7 +36,7 @@ const HomePage = () => {
 
               <p className="text-xl text-muted-foreground w-2/3">
                 Talk to our AI assistant and get personalized diet plans and
-                workout routines designed just for you
+                workout routines designed just for you.
               </p>
 
               {/* STATS */}
